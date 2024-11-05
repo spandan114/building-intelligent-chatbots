@@ -1,0 +1,14 @@
+langchain
+langchain-groq
+langchain-pinecone
+langchain-huggingface
+langchain-postgres
+langchain-community
+langchain-core
+streamlit
+python-dotenv
+pinecone-client
+psycopg2-binary
+sentence-transformers
+openai
+tiktoken

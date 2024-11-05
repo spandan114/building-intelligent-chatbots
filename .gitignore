@@ -1,0 +1,4 @@
+chatbotenv
+.env
+venv
+__pycache__
